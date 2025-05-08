@@ -1,1 +1,12 @@
 ~$git clone https://github.com/username/SwiftSamuraiV1.github.io
+
+
+~$cd SwiftSamuraiV1.github.io
+
+~$echo "Sup gang" > index.html
+
+~$git add --all
+
+~$git commit -m "Initial commit"
+
+~$git push -u origin main
